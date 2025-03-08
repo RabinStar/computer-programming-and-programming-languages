@@ -1,0 +1,7 @@
+The Relationship Between Computers and Digital Devices:
+
+A computer is a completely digital device, meaning it operates based on logic gates. These logic gates function through True (1) and False (0), meaning these gates work based on 0 and 1. Therefore, it can be said that a computer can only understand instructions based on 0 and 1 (which is known as machine code).
+
+So, if we want to make the computer perform a task, we must give it instructions in a language it understands. Computer language is entirely based on mathematical and logical instructions, and these are generally used to direct the computer to perform specific tasks. These instructions are what we call programming.
+
+Additionally, since programming serves as the communication medium between computers and humans, it is referred to as programming language. In this way, we can say that programming is a set of mathematical and logical instructions that the computer takes as input and provides the corresponding output.
