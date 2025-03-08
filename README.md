@@ -77,7 +77,7 @@ To start learning, clone this repository and explore the different sections. We 
 
 2. Explore the materials inside each folder.
 
-3. Begin with the `01-introduction-to-programming` folder and proceed through the rest of the folders to the final section.
+3. Begin with the `[01-introduction-to-programming]`(https://github.com/RabinStar/computer-programming-and-programming-languages/blob/ec06f7c35f28cfe60d28d4cd47c43ab9f3600070/01-introduction-to-programming/Lecture-Eng-001/README.md) folder and proceed through the rest of the folders to the final section.
 
 ---
 
